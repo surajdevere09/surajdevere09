@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Devere</h1>
-<h3 align="center">Expertise in Full stack web development </h3>
+<h3 align="center">Expertise in Full stack web development and AI Integration </h3>
 
 <p align="left"> <a href="https://twitter.com/surajdevere" target="blank"><img src="https://img.shields.io/twitter/follow/surajdevere?logo=twitter&style=for-the-badge" alt="surajdevere" /></a> </p>
 
